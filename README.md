@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building and deploying web apps to display in my personal portfolio.**
 
-- 🌱 I’m currently learning **the MERN stack, as well as Electron, and other frameworks.** Also planning on learning **MySQL** in the future.
+- 🌱 I’m currently learning **the MERN stack, as well as Electron, and other frameworks.** Also planning on learning **MySQL & TypeScript** in the future.
 
 - 💬 Ask me about **anything related to full stack development! I'm always learning, and it's always nice to have a conversation about it!**
 
