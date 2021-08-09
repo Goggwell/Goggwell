@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Yusuf</h1>
-<h3 align="center">A self-taught full stack developer based in Indonesia!</h3>
+<h3 align="center">A self-taught full stack developer & former graphic designer based in Indonesia!</h3>
 
 <p align="center">
 <img src="https://i.ibb.co/W3ZGfT2/samuel-yusuf.png">
