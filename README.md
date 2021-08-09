@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel Yusuf</h1>
 <h3 align="center">A self-taught full stack developer based in Indonesia!</h3>
 
+<p align="center">
+<img src="https://i.ibb.co/W3ZGfT2/samuel-yusuf.png">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goggwell&label=Profile%20views&color=0e75b6&style=flat" alt="goggwell" /> </p>
 
 - 🔭 I’m currently working on **building and deploying web apps to display in my personal portfolio.**
