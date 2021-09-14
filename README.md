@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **anything related to full stack development! I'm always learning, and it's always nice to have a conversation about it!**
 
+- ⚡ Portfolio: **You can view my portfolio from the link provided!** Check it out: [My Portfolio](http://samscodex.herokuapp.com)
+
 - 📫 How to reach me: **zulkarnaensamuel1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
