@@ -1,82 +1,29 @@
 <h1 align="center">Hi 👋, I'm Samuel Yusuf</h1>
-<h3 align="center">A self-taught full stack developer & former graphic designer based in Indonesia!</h3>
+<h3 align="center">A self-taught software engineer based in Indonesia!</h3>
 
 <p align="center">
-<img src="https://i.ibb.co/W3ZGfT2/samuel-yusuf.png">
+<img src="https://media-exp1.licdn.com/dms/image/D5616AQFGRyYCcYoj_g/profile-displaybackgroundimage-shrink_200_800/0/1664273195427?e=1670457600&v=beta&t=Gpj2rTvfVJnXKwbk29L6D7_zvYjnGVTRtIrxVz4g9Zo">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goggwell&label=Profile%20views&color=0e75b6&style=flat" alt="goggwell" /> </p>
 
-- 🔭 I’m currently working on **building and deploying web apps to display in my personal portfolio.**
+- 🔭 I’m currently working on **building a new personal website in the style of a desktop operating system!**
 
-- 🌱 I’m currently learning **the MERN stack, as well as Electron, and other frameworks.** Also planning on learning **MySQL & TypeScript** in the future.
+- 🌱 I’m currently learning **the T3 stack** so I can be a more well-rounded engineer. 
 
-- 💬 Ask me about **anything related to full stack development! I'm always learning, and it's always nice to have a conversation about it!**
+- 🌱 Also looking into large-scale application and system design by 
+  * implementing *test-driven development* with **Cypress, Jest, and React Testing Library**, 
+  * *continuous integration* with **Github Actions**, 
+  * and *monorepos* with **Turborepo**.
 
-- ⚡ Portfolio: **You can view my portfolio from the link provided!** Check it out: [My Portfolio](http://samscodex.herokuapp.com)
+- 👨‍💻 Portfolio: **You can view my portfolio from the link provided!** Check it out: [My Portfolio](http://samscodex.herokuapp.com)
 
-- 📫 How to reach me: **zulkarnaensamuel1@gmail.com**
+- ⚡ Fun fact: **I was Rank 1 in Australia in Teamfight Tactics | Hyper Roll for a number of weeks.** Granted I have not played in a while... | Check it out: [My Profile](https://lolchess.gg/profile/oce/goggwell)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/goggwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="goggwell" height="30" width="40" /></a>
-  &nbsp;
-  &nbsp;
-<a href="https://linkedin.com/in/samuel-yusuf-sy29071999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-yusuf-sy29071999" height="30" width="40" /></a>
-  &nbsp;
-  &nbsp;
-<a href="https://www.hackerrank.com/goggwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="goggwell" height="30" width="40" /></a>
-  &nbsp;
-  &nbsp;
-<a href="https://www.leetcode.com/goggwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="goggwell" height="30" width="40" /></a>
-</p>
+### Latest Note (3/10/2022 @4:00AM) - I update this note on every commit (same as the commit description)
+Safe to say I am no longer adhering to the MERN stack 😆 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" /></a> 
-  &nbsp;
-  &nbsp;
-  <a href="https://www.w3schools.com/css/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/></a>
-  &nbsp;
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>
-  &nbsp;
-  &nbsp;
-  <a href="https://getbootstrap.com" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/></a>
-  &nbsp;
-  &nbsp;
-  <a href="https://sass-lang.com" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/></a>
-  &nbsp;
-  &nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></a>
-  &nbsp;
-  &nbsp;
-  <a href="https://www.python.org" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a>
-  &nbsp;
-  &nbsp;
-  <a href="https://www.djangoproject.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="35" height="35"/></a>
-  &nbsp;
-  &nbsp;
-  <a href="https://www.mongodb.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></a>
-  &nbsp;
-  &nbsp;
-  <a href="https://reactjs.org/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/></a> 
-  &nbsp;
-  &nbsp;
-  <a href="https://reactnative.dev/" target="blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="35"/></a>
-  &nbsp;
-  &nbsp;
-  <a href="https://redux.js.org" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="35" height="35"/></a>
-  &nbsp;
-  &nbsp;
-  <a href="https://www.electronjs.org" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="35" height="35"/></a>
-  </p> 
-  
-<h3 align="left">Other Tools:</h3>
-<p align="left">
-  <a href="https://www.photoshop.com/en" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="35" height="35"/></a>
-    &nbsp;
-    &nbsp;
-  <a href="https://www.adobe.com/products/illustrator.html" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="35" height="35"/></a> 
-</p>
+It's no secret I've been heavily focused on the frontend as of late, so I want to delve deeper into the backend so I can round out my skillset and be a more valuable developer. 
 
-- ⚡ Fun fact: **I was Rank 1 in Australia in Teamfight Tactics | Hyper Roll for a number of weeks.** Check it out: [My Profile](https://lolchess.gg/profile/oce/goggwell)
+Currently working on a new portfolio that will be the culmination of what I have learned as an engineer thus far (after being employed for a year). Don't want to over-complicate the project, however, so I'll be using newer technologies in other projects (planning on improving my quiz application, and wanting to develop a website similar to [gg.deals](https://gg.deals).
+
+Some frameworks/libraries I've been keen on taking a look into are Astro and Qwik (relatively new frameworks that promise fast speeds), Zustand and Jotai (Redux/Context alternatives), Turborepo and NX (monorepo build systems), and the T3 stack (mainly tRPC and Prisma, since I want to improve my backend)
