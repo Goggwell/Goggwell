@@ -13,17 +13,15 @@
 - 🌱 Also looking into large-scale application and system design by 
   * implementing *test-driven development* with **Cypress, Jest, and React Testing Library**, 
   * *continuous integration* with **Github Actions**, 
-  * and *monorepos* with **Turborepo**.
+  * and *monorepos* with **Turborepo and NX**.
 
 - 👨‍💻 Portfolio: **You can view my portfolio from the link provided!** Check it out: [My Portfolio](http://samscodex.herokuapp.com)
 
 - ⚡ Fun fact: **I was Rank 1 in Australia in Teamfight Tactics | Hyper Roll for a number of weeks.** Granted I have not played in a while... | Check it out: [My Profile](https://lolchess.gg/profile/oce/goggwell)
 
-### Latest Note (3/10/2022 @4:00AM) - I update this note on every commit (same as the commit description)
-Safe to say I am no longer adhering to the MERN stack 😆 
+### Latest Note (12/10/2022 @5:30PM) - I update this note on every commit (same as the commit description)
+I HAVE FINALLY CONTRIBUTED TO OPEN SOURCE!!!! 🥳
 
-It's no secret I've been heavily focused on the frontend as of late, so I want to delve deeper into the backend so I can round out my skillset and be a more valuable developer. 
+If you would like to check out where I contributed to, please visit [this repo](https://github.com/syxanash/awesome-web-desktops) by [syxanash](https://github.com/syxanash/)! I submitted my portfolio as an addition to the README.
 
-Currently working on a new portfolio that will be the culmination of what I have learned as an engineer thus far (after being employed for a year). Don't want to over-complicate the project, however, so I'll be using newer technologies in other projects (planning on improving my quiz application, and wanting to develop a website similar to [gg.deals](https://gg.deals).
-
-Some frameworks/libraries I've been keen on taking a look into are Astro and Qwik (relatively new frameworks that promise fast speeds), Zustand and Jotai (Redux/Context alternatives), Turborepo and NX (monorepo build systems), and the T3 stack (mainly tRPC and Prisma, since I want to improve my backend)
+It was my first contribution, and I couldn't feel more happy about it! I would love to contribute more in the future!
