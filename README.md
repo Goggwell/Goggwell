@@ -6,16 +6,16 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goggwell&label=Profile%20views&color=0e75b6&style=flat" alt="goggwell" /> </p>
 
-- 🔭 I’m currently working on **building a new personal website in the style of a desktop operating system!**
+- 🔭 I’m currently working on **experimenting with NextJS v13 and other frameworks like SolidJS and Fresh!**
 
-- 🌱 I’m currently learning **the T3 stack** so I can be a more well-rounded engineer. 
+- 🌱 I’m currently learning **the T3 stack** so I can be a more well-rounded engineer. I'm also learning a little **Deno**.
 
 - 🌱 Also looking into large-scale application and system design by 
   * implementing *test-driven development* with **Cypress, Jest, and React Testing Library**, 
   * *continuous integration* with **Github Actions**, 
   * and *monorepos* with **Turborepo and NX**.
 
-- 👨‍💻 Portfolio: **You can view my portfolio from the link provided!** Check it out: [My Portfolio](http://samscodex.herokuapp.com)
+- 👨‍💻 Portfolio: **You can view my portfolio from the link provided!** Check it out: [My Portfolio](https://samlikescode.dev)
 
 - ⚡ Fun fact: **I was Rank 1 in Australia in Teamfight Tactics | Hyper Roll for a number of weeks.** Granted I have not played in a while... | Check it out: [My Profile](https://lolchess.gg/profile/oce/goggwell)
 
