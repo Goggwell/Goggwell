@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samuel Yusuf</h1>
 <h3 align="center">A self-taught software engineer based in Indonesia!</h3>
 
-<p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/D5616AQFGRyYCcYoj_g/profile-displaybackgroundimage-shrink_200_800/0/1664273195427?e=1670457600&v=beta&t=Gpj2rTvfVJnXKwbk29L6D7_zvYjnGVTRtIrxVz4g9Zo">
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goggwell&label=Profile%20views&color=0e75b6&style=flat" alt="goggwell" /> </p>
+- 🔭 I’m currently working on **building an API for [Cassette Beasts](https://store.steampowered.com/app/1321440/Cassette_Beasts/)!**
 
-- 🔭 I’m currently working on **experimenting with NextJS v13 and other frameworks like SolidJS and Fresh!**
+- 🌱 I’m currently learning how to be a better **backend engineer** so I can be a more reliable **frontend engineer** as well. I have been experimenting with **[Fastify](https://fastify.dev)** and **Edge Functions**.
 
-- 🌱 I’m currently learning **the T3 stack** so I can be a more well-rounded engineer. I'm also learning a little **Deno**.
-
-- 🌱 Also looking into large-scale application and system design by 
+- 🌱 Also looking into large-scale application development and system design by 
   * implementing *test-driven development* with **Cypress, Jest, and React Testing Library**, 
   * *continuous integration* with **Github Actions**, 
   * and *monorepos* with **Turborepo and NX**.
@@ -19,9 +14,13 @@
 
 - ⚡ Fun fact: **I was Rank 1 in Australia in Teamfight Tactics | Hyper Roll for a number of weeks.** Granted I have not played in a while... | Check it out: [My Profile](https://lolchess.gg/profile/oce/goggwell)
 
-### Latest Note (12/10/2022 @5:30PM) - I update this note on every commit (same as the commit description)
-I HAVE FINALLY CONTRIBUTED TO OPEN SOURCE!!!! 🥳
+### Latest Note (05/11/2023 @8:53PM) - I update this note on every commit (same as the commit description)
+I haven't updated this note in a while, but better late than never!
 
-If you would like to check out where I contributed to, please visit [this repo](https://github.com/syxanash/awesome-web-desktops) by [syxanash](https://github.com/syxanash/)! I submitted my portfolio as an addition to the README.
+Currently I've been working on developing an API to use for a personal project where I'm going to be implementing a lot of features thanks largely in part to [Tanstack Query](https://tanstack.com/query/latest/).
 
-It was my first contribution, and I couldn't feel more happy about it! I would love to contribute more in the future!
+Similar to a Pokedex application built with [PokeAPI](https://pokeapi.co), the frontend app will display a bestiary listing all of the monsters in [Cassette Beasts](https://store.steampowered.com/app/1321440/Cassette_Beasts/). I might add more to the data in the future (like items, NPCs, etc.), but I've kept it simple for now. We're gonna try and implement things like infinite scrolling, offline mode, mobile support (PWA or react-native idk), and a bunch of other features.
+
+I haven't decided if I'm gonna rebuild the API using NextJS + Edge Functions, could be nice. I also haven't decided if I should set up a new monorepo or just develop in separate repos. Again, could be nice.
+
+I am thankful that the API deployment is finally done (repo is [here](https://github.com/Goggwell/cassette-beasts-api) btw), cause it was a pain to get everything working 😢
