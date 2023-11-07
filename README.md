@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building an API for [Cassette Beasts](https://store.steampowered.com/app/1321440/Cassette_Beasts/)!**
 
-- 🌱 I’m currently learning how to be a better **backend engineer** so I can be a more reliable **frontend engineer** as well. I have been experimenting with **[Fastify](https://fastify.dev)** and **Edge Functions**.
+- 🌱 I’m currently learning how to be a better **backend engineer** so I can be a more reliable **frontend engineer** as well. I have been experimenting with web frameworks like **[Fastify](https://fastify.dev)** and **[Hono](https://hono.dev)**, along with **[Cloudflare Workers + KV](https://developers.cloudflare.com/workers/)** and **Serverless & Edge Functions**.
 
 - 🌱 Also looking into large-scale application development and system design by 
   * implementing *test-driven development* with **Cypress, Jest, and React Testing Library**, 
