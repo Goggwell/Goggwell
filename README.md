@@ -3,26 +3,13 @@
 
 ![image](https://media.licdn.com/dms/image/D5616AQG56XhB-m1BWw/profile-displaybackgroundimage-shrink_350_1400/0/1700853551062?e=1706140800&v=beta&t=Z1JOfL_Gwinh87SFhTt66eFmax50xdQR4YvtO0arXJU)
 
-- 🔭 I’m currently working on **building an API for [Cassette Beasts](https://store.steampowered.com/app/1321440/Cassette_Beasts/)!**
+- 🔭 I’m currently working on **building a companion app for [Cassette Beasts](https://store.steampowered.com/app/1321440/Cassette_Beasts/)!**
 
-- 🌱 I’m currently learning how to be a better **backend engineer** so I can be a more reliable **frontend engineer** as well. I have been experimenting with web frameworks like **[Fastify](https://fastify.dev)** and **[Hono](https://hono.dev)**, along with **[Cloudflare Workers + KV](https://developers.cloudflare.com/workers/)** and **Serverless & Edge Functions**.
-
-- 🌱 Also looking into large-scale application development and system design by 
-  * implementing *test-driven development* with **Cypress, Jest, and React Testing Library**, 
-  * *continuous integration* with **Github Actions**, 
-  * and *monorepos* with **Turborepo and NX**.
+- 🌱 Some recent experiments involve using technologies like [Neon](neon.tech), [Cloudflare Workers](https://workers.cloudflare.com), [Hono](https://hono.dev), [nanostores](https://github.com/nanostores/nanostores), [Tanstack Query](https://tanstack.com/query/latest), [shadcn/ui](https://ui.shadcn.com), and [SolidJS](https://www.solidjs.com).
 
 - 👨‍💻 Portfolio: **You can view my portfolio from the link provided!** Check it out: [My Portfolio](https://samlikescode.dev)
 
 - ⚡ Fun fact: **I was Rank 1 in Australia in Teamfight Tactics | Hyper Roll for a number of weeks.** Granted I have not played in a while... | Check it out: [My Profile](https://lolchess.gg/profile/oce/goggwell)
 
-### Latest Note (05/11/2023 @8:53PM) - I update this note on every commit (same as the commit description)
-I haven't updated this note in a while, but better late than never!
-
-Currently I've been working on developing an API to use for a personal project where I'm going to be implementing a lot of features thanks largely in part to [Tanstack Query](https://tanstack.com/query/latest/).
-
-Similar to a Pokedex application built with [PokeAPI](https://pokeapi.co), the frontend app will display a bestiary listing all of the monsters in [Cassette Beasts](https://store.steampowered.com/app/1321440/Cassette_Beasts/). I might add more to the data in the future (like items, NPCs, etc.), but I've kept it simple for now. We're gonna try and implement things like infinite scrolling, offline mode, mobile support (PWA or react-native idk), and a bunch of other features.
-
-I haven't decided if I'm gonna rebuild the API using NextJS + Edge Functions, could be nice. I also haven't decided if I should set up a new monorepo or just develop in separate repos. Again, could be nice.
-
-I am thankful that the API deployment is finally done (repo is [here](https://github.com/Goggwell/cassette-beasts-api) btw), cause it was a pain to get everything working 😢
+### Latest Note (25/11/2023 @2:45AM) - I update this note on every commit (same as the commit description)
+Work on [OliveUp](https://github.com/Goggwell/OliveUp) is going smoothly. Managed to cobble together a working route with some infinite scrolling action, and a decent looking nested route (chart powered by [Nivo](https://nivo.rocks))! Will have to postpone work on our app for now as I kinda need to update my personal website. Unfortunately it is severely outdated, and I plan on rewriting much of the codebase.
