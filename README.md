@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **building a companion app for [Cassette Beasts](https://store.steampowered.com/app/1321440/Cassette_Beasts/)!**
 
-- 🌱 Some recent experiments involve using technologies like [Neon](neon.tech), [Cloudflare Workers](https://workers.cloudflare.com), [Hono](https://hono.dev), [nanostores](https://github.com/nanostores/nanostores), [Tanstack Query](https://tanstack.com/query/latest), [shadcn/ui](https://ui.shadcn.com), and [SolidJS](https://www.solidjs.com).
+- 🌱 I'm also looking into open-source contributions and honing my skills as a software engineer by focusing on building side projects using technologies I am unfamiliar with. I am hoping that I will learn a lot about clean code and collaboration through working on open-source repos.
 
 - 👨‍💻 Portfolio: **You can view my portfolio from the link provided!** Check it out: [My Portfolio](https://samlikescode.dev)
 
 - ⚡ Fun fact: **I was Rank 1 in Australia in Teamfight Tactics | Hyper Roll for a number of weeks.** Granted I have not played in a while... | Check it out: [My Profile](https://lolchess.gg/profile/oce/goggwell)
 
-### Latest Note (25/11/2023 @2:45AM) - I update this note on every commit (same as the commit description)
-Work on [OliveUp](https://github.com/Goggwell/OliveUp) is going smoothly. Managed to cobble together a working route with some infinite scrolling action, and a decent looking nested route (chart powered by [Nivo](https://nivo.rocks))! Will have to postpone work on our app for now as I kinda need to update my personal website. Unfortunately it is severely outdated, and I plan on rewriting much of the codebase.
+### Latest Note (11/01/2024 @1:01PM) - I update this note on every commit (same as the commit description)
+Right now I'm looking for several open-source projects that I could potentially contribute to. I'm mainly doing this to further develop my current skillset, and it's also a nice way of meeting new people (particularly in the development space). I'm also looking at a bunch of popular open-source repos for project ideas or cool features that I could try to replicate or build with another method. There is a lot to learn, and I truly know nothing 😅
