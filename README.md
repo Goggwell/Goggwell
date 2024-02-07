@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Yusuf</h1>
 <h3 align="center">A self-taught software engineer based in Indonesia!</h3>
 
-![image](https://media.licdn.com/dms/image/D5616AQG56XhB-m1BWw/profile-displaybackgroundimage-shrink_350_1400/0/1700853551062?e=1706140800&v=beta&t=Z1JOfL_Gwinh87SFhTt66eFmax50xdQR4YvtO0arXJU)
+![image](https://images2.imgbox.com/76/c5/Y1c6DQH3_o.jpg)
 
 - 🔭 I’m currently working on **building a companion app for [Cassette Beasts](https://store.steampowered.com/app/1321440/Cassette_Beasts/)!**
 
